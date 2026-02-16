@@ -18,10 +18,10 @@ This project allows:
 
 ## 🚀 How to Run
 
-
-   javac *.java
-   java Main
-
+```bash
+javac *.java
+java Main
+```
 ## 📚 Features Implemented
 - Account creation
 - PIN validation
