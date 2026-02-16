@@ -1,0 +1,35 @@
+# Banking System (Java Console Application)
+
+## 📌 Description
+A simple console-based banking system built using Java.
+
+This project allows:
+- User authentication using PIN
+- Deposit money
+- Withdraw money
+- Check account balance
+- 3-attempt PIN security with temporary lock
+
+## 🛠 Technologies Used
+- Java
+- OOP (Encapsulation, Constructors, Methods)
+- Scanner for user input
+- Control Statements (Loops, Switch, If-Else)
+
+## 🚀 How to Run
+
+1. Compile:
+   javac *.java
+
+2. Run:
+   java Main
+
+## 📚 Features Implemented
+- Account creation
+- PIN validation
+- 3 login attempts with 10-second lock
+- Deposit validation
+- Withdrawal validation (insufficient balance check)
+
+## 👩‍💻 Author
+Gazala Anjum
