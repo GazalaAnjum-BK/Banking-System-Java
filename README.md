@@ -15,12 +15,20 @@ This project allows:
 - OOP (Encapsulation, Constructors, Methods)
 - Scanner for user input
 - Control Statements (Loops, Switch, If-Else)
-
 ## 🚀 How to Run
 
-```bash
-javac *.java
-java Main
+1. Clone the repository:
+   git clone https://github.com/GazalaAnjum-BK/Banking-System-Java.git
+
+2. Navigate to the project folder:
+   cd Banking-System-Java
+
+3. Compile the program:
+   javac *.java
+
+4. Run the program:
+   java Main
+
 ```
 ## 📚 Features Implemented
 - Account creation
