@@ -18,10 +18,8 @@ This project allows:
 
 ## 🚀 How to Run
 
-1. Compile:
-   javac *.java
 
-2. Run:
+   javac *.java
    java Main
 
 ## 📚 Features Implemented
@@ -32,4 +30,4 @@ This project allows:
 - Withdrawal validation (insufficient balance check)
 
 ## 👩‍💻 Author
-Gazala Anjum
+Gazala Anjum B K
